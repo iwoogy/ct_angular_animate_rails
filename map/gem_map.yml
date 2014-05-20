@@ -1,0 +1,11 @@
+---
+module:
+  name: "ngAnimate"
+uis:
+  - name: $animate
+    type: service
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
